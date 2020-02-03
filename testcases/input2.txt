@@ -1,0 +1,15 @@
+Honda			Civic	27150	961800
+Nissan		Altima		53700						776980
+Volkswagen 	Golf	20720	269740
+Toyota			Corolla	59070					951260
+Honda	CR-V			69150	258000
+Toyota			RAV4	53220			632920
+Nissan	GT-R		77040	771610
+Nissan	NV Cargo	64580	959760
+RAM		2500	11370	745450
+Honda	Fit	77730	392630
+Volkswagen 	Jetta	83520	349060
+Nissan		Leaf	98510	127750
+RAM	1500 Classic Warlock	64400	187550
+Toyota				Camry			41490				495400
+Honda	Type R			41700				955670

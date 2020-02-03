@@ -1,0 +1,3 @@
+Studebaker Champion	24000	27000
+Studebaker Land Cruiser	35000	38000
+Studebaker Starlight	42000	46000
