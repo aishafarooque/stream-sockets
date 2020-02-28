@@ -6,21 +6,21 @@ Using stream sockets to write a simple server/client pair.
 
 To run this file:
 1. Open two Linux terminal windows
-2. In window #1 (server window):
+2. In window #1 (server window):<br/>
   a. "cd" into source code folder<br/>
   b. "gcc aisha_farooque_server.cpp"<br/>
   c. "./a.out"<br/>
-  d. Enter "input1.txt" for "Enter the name of file:"
-  e. Enter any four digit port number that is valid. 
-  -- If connection is refused, then port number is not valid, try another number.
-  -- Else, try starting back from step b.
+  d. Enter "input1.txt" for "Enter the name of file:"<br/>
+  e. Enter any four digit port number that is valid. <br/>
+  -- If connection is refused, then port number is not valid, try another number.<br/>
+  -- Else, try starting back from step b.<br/>
  
- 3. In window #2:
-  a. "cd" into source code folder
-  b. "gcc aisha_farooque_client.cpp"
-  c. "./a.out"
-  d. Enter "localhost" as the "host name"
-  c. Enter same port number as Step 2-e for "server port number"
-  e. Search for any model and make as the cars in the input1.txt database.
+ 3. In window #2:<br/>
+  a. "cd" into source code folder<br/>
+  b. "gcc aisha_farooque_client.cpp"<br/>
+  c. "./a.out"<br/>
+  d. Enter "localhost" as the "host name"<br/>
+  c. Enter same port number as Step 2-e for "server port number"<br/>
+  e. Search for any model and make as the cars in the input1.txt database.<br/>
 
 ![media](demo/media.gif)
