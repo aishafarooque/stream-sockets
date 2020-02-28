@@ -6,10 +6,10 @@ Using stream sockets to write a simple server/client pair.
 
 To run this file:
 1. Open two Linux terminal windows
-2. In window #1 (server window): <br>
-  a. "cd" into source code folder
-  b. "gcc aisha_farooque_server.cpp"
-  c. "./a.out"
+2. In window #1 (server window):
+  a. "cd" into source code folder<br/>
+  b. "gcc aisha_farooque_server.cpp"<br/>
+  c. "./a.out"<br/>
   d. Enter "input1.txt" for "Enter the name of file:"
   e. Enter any four digit port number that is valid. 
   -- If connection is refused, then port number is not valid, try another number.
