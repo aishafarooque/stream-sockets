@@ -23,4 +23,4 @@ To run this file:
   c. Enter same port number as Step 2-e for "server port number"<br/>
   e. Search for any model and make as the cars in the input1.txt database.<br/>
 
-![demo](demo/media.gif)
+![demo](demo/media.png)
